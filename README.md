@@ -35,4 +35,4 @@ The application connects to the Login2Explore API at `http://api.login2explore.c
 
 ## Author
 
-[Your Name]
+Pradeep Argal
