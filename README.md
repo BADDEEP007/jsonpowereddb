@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
-- [Release History](#release-history)
 - [Features](#features)
 - [Scope of Functionalities](#scope-of-functionalities)
 - [Examples of Use](#examples-of-use)
